@@ -20,3 +20,18 @@ GeneratePress is based on Underscores http://underscores.me/, (C) 2012-2021 Auto
 
 Actual CSS can be found in /assets/css/ folder.
 */
+html {
+  height: 100%;
+}
+body {
+  position: relative;
+}
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
