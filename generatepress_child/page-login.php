@@ -32,6 +32,10 @@ get_header(); ?>
     <div class="inside-article">
 
       <h1 class="entry-title" itemprop="headline">Login</h1>
+      modify this so this will contain the page title
+      and make sure to always check, if user is login as soomething , do not go to this page again , forbid any logged in user
+      to access this
+      NB : maybe add some font awesome , if needed
       <div class="entry-content">
         <form>
           <div class="form-group">
